@@ -1,0 +1,24 @@
+.social-media{
+    
+    text-align: center;
+
+}
+
+.social-media img{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
+
+.links{
+    display: block;
+    /* justify-content: ; */
+    text-align: center;
+}
+
+.links a{
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    color: white;
+}
+

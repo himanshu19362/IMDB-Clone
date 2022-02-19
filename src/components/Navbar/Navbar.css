@@ -1,0 +1,12 @@
+.navbar {
+    
+    /* background-color: rgba(21, 21, 21 , 0.82); */
+    background-color: rgb(37 , 37 , 37);
+    /* height: 100px; */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+

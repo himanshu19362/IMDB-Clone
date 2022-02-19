@@ -1,0 +1,26 @@
+.description-image{
+    display: block;
+    /* width: 60%; */
+    height: 600px;
+    margin: auto;
+}
+
+.description{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.description h1{
+    color: #ffc107 ;
+}
+
+.description p{
+    line-height: 30px;
+}
+
+@media screen and (max-width: 1000px) {
+    .description{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
